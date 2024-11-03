@@ -1,0 +1,82 @@
+	prokaryote_shannon	microalgae_shannon	prokaryote_observed features after rarefaction at 2000 read depth	microalgae_observed features after rarefaction at 100 read depth	Samplecode	Panel	bottle	Seaweed_specimen_weight	Biofilm Sample area	Treatment	Rep	Date	Timepoint	Exposure_T_length	Substrate	Substrate_type	Isolation_source	Mean_Water_Conductivity_mS.cm	Mean_Water_Temperature	Mean_Water_OX_ml.l	Mean_Total_radiation	Mean_Precipitation	BioSampleModel	Instrument	Rep	Plastid_count
+#q2:types	numeric	numeric	numeric	numeric	categorical	categorical	categorical	numeric	numeric	categorical	categorical	categorical	categorical	numeric	categorical	categorical	categorical	numeric	numeric	numeric	numeric	numeric	categorical	categorical	categorical	numeric
+AgarepiT1-13	4.883794	1.6368981	399	6	AgarepiT1-13	P9	B2	62.49	25	G. vermiculophylla		10_11_20	T1	7	Seaweed	Invasive	Sw-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep1	NA
+AgarepiT1-17	5.228377	2.0160529	419	13	AgarepiT1-17	P12	B1	68.57	25	G. vermiculophylla		10_11_20	T1	7	Seaweed	Invasive	Sw-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep2	NA
+AgarepiT1-2	4.902313	1.2014966	277	6	AgarepiT1-2	P3	B1	74.23	21	G. vermiculophylla		10_11_20	T1	7	Seaweed	Invasive	Sw-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep3	NA
+AgarepiT1-3	5.027058	2.6787271	418	20	AgarepiT1-3	P4	B1	44.02	20	G. vermiculophylla		10_11_20	T1	7	Seaweed	Invasive	Sw-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep4	NA
+AgarepiT1-7	5.316749	1.8615642	460	9	AgarepiT1-7	P6	B1	50.9	24	G. vermiculophylla		10_11_20	T1	7	Seaweed	Invasive	Sw-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep5	NA
+AgarepiT1-8	5.398156	2.4419649	494	17	AgarepiT1-8	P6	B2	51.32	26	G. vermiculophylla		10_11_20	T1	7	Seaweed	Invasive	Sw-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep6	NA
+AgarepiT2-46	5.549463	1.4776839	617	12	AgarepiT2-46	P3	B1	71.8	21	G. vermiculophylla		1_12_20	T2	14	Seaweed	Invasive	Sw-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep1	NA
+AgarepiT2-47	5.268013	2.2615472	535	18	AgarepiT2-47	P4	B1	42.3	20	G. vermiculophylla		1_12_20	T2	14	Seaweed	Invasive	Sw-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep2	NA
+AgarepiT2-51	4.960354	2.1565168	448	12	AgarepiT2-51	P6	B1	48.3	24	G. vermiculophylla		1_12_20	T2	14	Seaweed	Invasive	Sw-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep3	NA
+AgarepiT2-57	5.245476	2.1268454	534	10	AgarepiT2-57	P9	B2	58.3	25	G. vermiculophylla		1_12_20	T2	14	Seaweed	Invasive	Sw-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep5	NA
+AgarepiT2-61	5.187972	1.8646158	508	13	AgarepiT2-61	P12	B1	64.3	25	G. vermiculophylla		1_12_20	T2	14	Seaweed	Invasive	Sw-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep6	NA
+AgarPCT1-23	4.656413	2.2002063	437	15	AgarPCT1-23	P3	B1	71.8	33	G. vermiculophylla		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep1	28
+AgarPCT1-25	4.80641	2.0484391	343	15	AgarPCT1-25	P4	B1	42.3	33	G. vermiculophylla		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep2	242
+AgarPCT1-29	5.534923	2.0586833	514	16	AgarPCT1-29	P6	B1	48.3	33	G. vermiculophylla		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep3	64
+AgarPCT1-30	4.771343	1.7697191	408	16	AgarPCT1-30	P6	B2	49.3	33	G. vermiculophylla		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep4	64
+AgarPCT1-36	5.257868	2.1008101	479	17	AgarPCT1-36	P9	B2	58.3	33	G. vermiculophylla		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep5	312
+AgarPCT1-41	5.055898	1.7870158	315	12	AgarPCT1-41	P12	B1	64.3	33	G. vermiculophylla		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep6	273
+AgarPCT2-68	5.919775	1.6329648	612	9	AgarPCT2-68	P3	B1	71.8	33	G. vermiculophylla		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep1	449
+AgarPCT2-70	5.583821	1.6321027	514	12	AgarPCT2-70	P4	B1	42.3	33	G. vermiculophylla		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep2	587
+AgarPCT2-74	5.55706	2.1358958	475	16	AgarPCT2-74	P6	B1	48.3	33	G. vermiculophylla		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep3	382
+AgarPCT2-75	4.661536	1.552312	357	12	AgarPCT2-75	P6	B2	49.3	33	G. vermiculophylla		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep4	165
+AgarPCT2-81	5.080034	1.5689549	399	13	AgarPCT2-81	P9	B2	58.3	33	G. vermiculophylla		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep5	381
+AgarPCT2-86	4.846332	2.1754013	355	13	AgarPCT2-86	P12	B1	64.3	33	G. vermiculophylla		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-G. vermiculophylla	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep6	34
+ContPCT1-21	4.728709	1.7493571	357	15	ContPCT1-21	P2	B1	0.001	33	Control		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-Control	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep1	24
+ContPCT1-24	4.778081	2.3634075	328	19	ContPCT1-24	P3	B2	0.001	33	Control		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-Control	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep2	37
+ContPCT1-33	4.370957	1.7964886	265	12	ContPCT1-33	P8	B1	0.001	33	Control		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-Control	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep3	60
+ContPCT1-40	5.542057	2.3222793	588	17	ContPCT1-40	P11	B2	0.001	33	Control		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-Control	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep4	250
+ContPCT1-43	3.758041	2.0048311	247	17	ContPCT1-43	P13	B1	0.001	33	Control		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-Control	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep5	38
+ContPCT1-44	4.118395	2.0250805	238	17	ContPCT1-44	P13	B2	0.001	33	Control		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-Control	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep6	10
+ContPCT2-64	5.249179	1.0480954	409	10	ContPCT2-64	P1	B1	0.001	33	Control		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-Control	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep1	89
+ContPCT2-65	6.17335	2.153516	778	22	ContPCT2-65	P1	B2	0.001	33	Control		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-Control	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep2	171
+ContPCT2-66	5.478191	1.2997353	483	12	ContPCT2-66	P2	B1	0.001	33	Control		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-Control	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep3	580
+ContPCT2-69	5.615739	2.2884301	554	21	ContPCT2-69	P3	B2	0.001	33	Control		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-Control	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep4	145
+ContPCT2-78	5.720088	1.4942575	560	7	ContPCT2-78	P8	B1	0.001	33	Control		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-Control	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep5	432
+ContPCT2-85	5.371156	1.4594814	487	9	ContPCT2-85	P11	B2	0.001	33	Control		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-Control	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep6	145
+SerepiT1-14	6.446167	2.2724689	901	13	SerepiT1-14	P10	B1	53.28	11	F. serratus		10_11_20	T1	7	Seaweed	Native	Sw-F. serratus	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep1	NA
+SerepiT1-15	6.196166	2.0294282	734	17	SerepiT1-15	P10	B2	62.81	17	F. serratus		10_11_20	T1	7	Seaweed	Native	Sw-F. serratus	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep2	NA
+SerepiT1-16	4.972429	1.821123	335	9	SerepiT1-16	P11	B1	66.61	22	F. serratus		10_11_20	T1	7	Seaweed	Native	Sw-F. serratus	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep3	NA
+SerepiT1-4	6.295615	1.6291334	781	15	SerepiT1-4	P4	B2	48.8	17	F. serratus		10_11_20	T1	7	Seaweed	Native	Sw-F. serratus	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep4	NA
+SerepiT1-5	5.46901	2.5341358	479	17	SerepiT1-5	P5	B1	48.62	21	F. serratus		10_11_20	T1	7	Seaweed	Native	Sw-F. serratus	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep5	NA
+SerepiT1-9	6.213303	1.7779196	766	15	SerepiT1-9	P7	B1	49.59	15	F. serratus		10_11_20	T1	7	Seaweed	Native	Sw-F. serratus	25.96	13.21	0.09	40.08	0.2	Amplicon	Illumina MiSeq	Rep6	NA
+SerepiT2-48	6.196974	1.7372885	737	15	SerepiT2-48	P4	B2	46.96	17	F. serratus		1_12_20	T2	14	Seaweed	Native	Sw-F. serratus	23.54	9.44	1.41	17.04	0.2	Amplicon	Illumina MiSeq	Rep1	NA
+SerepiT2-49	5.461688	2.2754484	467	18	SerepiT2-49	P5	B1	46.4	21	F. serratus		1_12_20	T2	14	Seaweed	Native	Sw-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep2	NA
+SerepiT2-53	6.027951	1.9823588	647	10	SerepiT2-53	P7	B1	47.1	15	F. serratus		1_12_20	T2	14	Seaweed	Native	Sw-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep3	NA
+SerepiT2-59	6.121976	2.2893592	632	17	SerepiT2-59	P10	B2	61.5	17	F. serratus		1_12_20	T2	14	Seaweed	Native	Sw-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep5	NA
+SerepiT2-60	5.947451	2.6164075	695	17	SerepiT2-60	P11	B1	65	22	F. serratus		1_12_20	T2	14	Seaweed	Native	Sw-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep6	NA
+SerPCT1-26	4.661491	2.1678895	265	16	SerPCT1-26	P4	B2	46.96	33	F. serratus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. serratus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep1	61
+SerPCT1-27	4.416799	0.5913965	183	6	SerPCT1-27	P5	B1	46.4	33	F. serratus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. serratus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep2	93
+SerPCT1-31	4.92181	2.063957	385	14	SerPCT1-31	P7	B1	47.1	33	F. serratus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. serratus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep3	74
+SerPCT1-37	5.318613	1.977896	522	15	SerPCT1-37	P10	B1	50.3	33	F. serratus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. serratus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep4	55
+SerPCT1-38	5.112634	1.9614752	438	11	SerPCT1-38	P10	B2	61.5	33	F. serratus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. serratus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep5	161
+SerPCT1-39	5.086894	2.4261221	419	18	SerPCT1-39	P11	B1	65	33	F. serratus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. serratus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep6	147
+SerPCT2-71	5.467478	1.2514175	568	14	SerPCT2-71	P4	B2	46.96	33	F. serratus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep1	334
+SerPCT2-72	5.47621	1.7025066	493	12	SerPCT2-72	P5	B1	46.4	33	F. serratus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep2	691
+SerPCT2-76	5.174673	2.2327951	462	17	SerPCT2-76	P7	B1	47.1	33	F. serratus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep3	29
+SerPCT2-82	5.507864	1.9230063	480	18	SerPCT2-82	P10	B1	50.3	33	F. serratus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep4	264
+SerPCT2-83	5.840552	1.5836275	602	13	SerPCT2-83	P10	B2	61.5	33	F. serratus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep5	34
+SerPCT2-84	5.05914	2.0187961	377	12	SerPCT2-84	P11	B1	65	33	F. serratus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. serratus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep6	28
+VesepiT1-1	4.200785	1.8821543	462	14	VesepiT1-1	P2	B2	82.72	15	F. vesiculosus		10_11_20	T1	7	Seaweed	Native	Sw-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep1	NA
+VesepiT1-10	5.181306	1.7541666	419	13	VesepiT1-10	P7	B2	68.13	16	F. vesiculosus		10_11_20	T1	7	Seaweed	Native	Sw-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep2	NA
+VesepiT1-11	5.777407	2.2931875	579	16	VesepiT1-11	P8	B2	95.8	18	F. vesiculosus		10_11_20	T1	7	Seaweed	Native	Sw-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep3	NA
+VesepiT1-12	6.149616	1.7398986	700	13	VesepiT1-12	P9	B1	45.97	21	F. vesiculosus		10_11_20	T1	7	Seaweed	Native	Sw-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep4	NA
+VesepiT1-18	5.675277	2.1840937	592	11	VesepiT1-18	P12	B2	85.15	24	F. vesiculosus		10_11_20	T1	7	Seaweed	Native	Sw-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep5	NA
+VesepiT1-6	6.160732	1.865784	712	13	VesepiT1-6	P5	B2	58.57	16	F. vesiculosus		10_11_20	T1	7	Seaweed	Native	Sw-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep6	NA
+VesepiT2-45	6.570399	2.4142294	967	23	VesepiT2-45	P2	B2	82.72	15	F. vesiculosus		1_12_20	T2	14	Seaweed	Native	Sw-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep1	NA
+VesepiT2-54	5.933638	2.1607819	695	16	VesepiT2-54	P7	B2	64.6	16	F. vesiculosus		1_12_20	T2	14	Seaweed	Native	Sw-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep3	NA
+VesepiT2-55	6.09047	2.2078466	673	16	VesepiT2-55	P8	B2	95.8	18	F. vesiculosus		1_12_20	T2	14	Seaweed	Native	Sw-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep4	NA
+VesepiT2-56	5.745867	1.7705405	511	8	VesepiT2-56	P9	B1	43.7	21	F. vesiculosus		1_12_20	T2	14	Seaweed	Native	Sw-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep5	NA
+VesepiT2-62	5.443176	2.3701915	562	17	VesepiT2-62	P12	B2	83.2	24	F. vesiculosus		1_12_20	T2	14	Seaweed	Native	Sw-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep6	NA
+VesPCT1-22	5.241105	2.220513	462	19	VesPCT1-22	P2	B2	82.72	33	F. vesiculosus		10_11_21	T1	7	Polycarbonate	Polycarbonate	PC-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep1	168
+VesPCT1-32	4.139626	1.8845825	268	14	VesPCT1-32	P7	B2	64.6	33	F. vesiculosus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep2	10
+VesPCT1-34	4.986282	1.6681766	371	11	VesPCT1-34	P8	B2	95.8	33	F. vesiculosus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep3	53
+VesPCT1-35	5.533065	1.6751976	514	13	VesPCT1-35	P9	B1	43.7	33	F. vesiculosus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep4	106
+VesPCT1-42	5.175305	1.8540066	384	10	VesPCT1-42	P12	B2	83.2	33	F. vesiculosus		10_11_20	T1	7	Polycarbonate	Polycarbonate	PC-F. vesiculosus	25.96	13.21	0.09	40.08	0.78	Amplicon	Illumina MiSeq	Rep5	140
+VesPCT2-67	5.496241	1.240934	513	9	VesPCT2-67	P2	B2	82.72	33	F. vesiculosus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep1	186
+VesPCT2-73	5.29012	1.4883739	399	7	VesPCT2-73	P5	B2	56.3	33	F. vesiculosus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep2	212
+VesPCT2-77	4.902126	2.0537049	482	17	VesPCT2-77	P7	B2	64.6	33	F. vesiculosus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep3	196
+VesPCT2-79	5.290063	1.8388929	476	13	VesPCT2-79	P8	B2	95.8	33	F. vesiculosus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep4	114
+VesPCT2-80	5.89951	2.242551	637	19	VesPCT2-80	P9	B1	43.7	33	F. vesiculosus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep5	257
+VesPCT2-87	5.467771	1.9208842	531	14	VesPCT2-87	P12	B2	83.2	33	F. vesiculosus		1_12_20	T2	14	Polycarbonate	Polycarbonate	PC-F. vesiculosus	23.54	9.44	1.41	17.04	0.78	Amplicon	Illumina MiSeq	Rep6	915
