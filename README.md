@@ -1,4 +1,4 @@
-# Greater host influence and promiscuity in invasive algae 
+# Greater host influence and promiscuity: How an invasive seaweed host has advantages over co-occurring natives
 
 
 
@@ -8,6 +8,7 @@ stronger influence but also more flexibility towards the environmental microbes,
 
 
 ---
+
 
 
 <img width="1146" height="797" alt="Image" src="https://github.com/user-attachments/assets/14bceac4-bf35-45a6-9354-9505ef12dfad" />
