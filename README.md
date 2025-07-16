@@ -6,4 +6,7 @@ The surface microbiome of seaweed hosts is a multi-domain biofilm regulated by h
 stronger influence but also more flexibility towards the environmental microbes, indicating higher controlling and simultaneously acclimatization potential, which may contribute to why it thrives in new ecosystems.
 
 
+---
+
+
 <img width="1146" height="797" alt="Image" src="https://github.com/user-attachments/assets/14bceac4-bf35-45a6-9354-9505ef12dfad" />
